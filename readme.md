@@ -43,7 +43,6 @@
 
 ## STRETCH CHALLENGES
 
-Potential improvements include:
 - Adding difficulty levels by adjusting the word length or the number of tries.
 - Improving the `words.txt` file by including a more extensive vocabulary or by sourcing words based on themes.
 - Allowing players to select categories or themes for the word list.
